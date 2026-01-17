@@ -203,8 +203,15 @@ main > section{
     background-color: #FFF4E7;
     text-align: center;
     padding: 40px 0px;
-    margin: 130px;
-
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 130px;
+    margin-bottom: 216px;
+    max-width: 1440px;
+}
+.footer p{
+    font-size: 1rem;
+    font-weight: 500;
 }
 
 
